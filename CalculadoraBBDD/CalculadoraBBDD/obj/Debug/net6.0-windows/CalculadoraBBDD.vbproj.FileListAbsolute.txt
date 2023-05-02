@@ -1,0 +1,17 @@
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\bin\Debug\net6.0-windows\CalculadoraBBDD.exe
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\bin\Debug\net6.0-windows\CalculadoraBBDD.deps.json
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\bin\Debug\net6.0-windows\CalculadoraBBDD.runtimeconfig.json
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\bin\Debug\net6.0-windows\CalculadoraBBDD.dll
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\bin\Debug\net6.0-windows\CalculadoraBBDD.pdb
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.vbproj.AssemblyReference.cache
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.Form1.resources
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.vbproj.GenerateResource.cache
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.GeneratedMSBuildEditorConfig.editorconfig
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.AssemblyInfoInputs.cache
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.AssemblyInfo.vb
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.vbproj.CoreCompileInputs.cache
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.dll
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\refint\CalculadoraBBDD.dll
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.pdb
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\CalculadoraBBDD.genruntimeconfig.cache
+E:\DAW1\Base de datos\VisualBasic\Calculadora\CalculadoraBBDD\CalculadoraBBDD\obj\Debug\net6.0-windows\ref\CalculadoraBBDD.dll
