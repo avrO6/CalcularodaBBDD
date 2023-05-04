@@ -38,12 +38,52 @@ Public Class Ecuacion
         End Set
     End Property
 
+    Public Property Rm11 As Double
+        Get
+            Return rm1
+        End Get
+        Set(value As Double)
+            rm1 = value
+        End Set
+    End Property
+
+    Public Property Im11 As Double
+        Get
+            Return im1
+        End Get
+        Set(value As Double)
+            im1 = value
+        End Set
+    End Property
+
+    Public Property Rm21 As Double
+        Get
+            Return rm2
+        End Get
+        Set(value As Double)
+            rm2 = value
+        End Set
+    End Property
+
+    Public Property Im21 As Double
+        Get
+            Return im2
+        End Get
+        Set(value As Double)
+            im2 = value
+        End Set
+    End Property
+
+
+
+
     'Constructor de la clase Ecuacion'
     Public Sub New(ByVal a As Double, ByVal b As Double, ByVal c As Double)
         Me.a = a
         Me.b = b
         Me.c = c
     End Sub
+
 
     Function calcular() As Double
 
@@ -54,19 +94,19 @@ Public Class Ecuacion
         'Comprueba si la ecuación tiene soluciones reales o imaginarias'
         If discriminante > 0 Then
             'Te dice si la ecuación tiene dos soluciones reales'
-            rm1 = (-b + Math.Sqrt(discriminante)) / (2 * a)
-            rm2 = (-b - Math.Sqrt(discriminante)) / (2 * a)
+            Rm11 = (-b + Math.Sqrt(discriminante)) / (2 * a)
+            Rm21 = (-b - Math.Sqrt(discriminante)) / (2 * a)
 
         ElseIf discriminante = 0 Then
             'te dice si la ecuación tiene una solución real'
-            rm1 = (-b + Math.Sqrt(discriminante)) / (2 * a)
-            rm2 = (-b - Math.Sqrt(discriminante)) / (2 * a)
+            Rm11 = (-b + Math.Sqrt(discriminante)) / (2 * a)
+            Rm21 = (-b - Math.Sqrt(discriminante)) / (2 * a)
         Else
             'te dice si la ecuación tiene soluciones imaginarias'
-            rm1 = -b / (2 * a)
-            rm2 = -b / (2 * a)
-            im1 = Math.Sqrt(-discriminante)
-            im2 = Math.Sqrt(-discriminante)
+            Rm11 = -b / (2 * a)
+            Rm21 = -b / (2 * a)
+            Im11 = Math.Sqrt(-discriminante)
+            Im21 = Math.Sqrt(-discriminante)
         End If
 
         Return discriminante
