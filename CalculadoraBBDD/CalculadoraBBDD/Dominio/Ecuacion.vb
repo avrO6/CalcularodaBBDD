@@ -11,6 +11,7 @@ Public Class Ecuacion
     Private im2 As Double
 
     'Properties de las variables de entrada'
+
     Public Property PropiedadA As Double
         Get
             Return a
@@ -40,7 +41,7 @@ Public Class Ecuacion
 
     Public Property Rm11 As Double
         Get
-            Return rm1
+            Return Math.Round(rm1, 2)
         End Get
         Set(value As Double)
             rm1 = value
@@ -49,7 +50,7 @@ Public Class Ecuacion
 
     Public Property Im11 As Double
         Get
-            Return im1
+            Return Math.Round(im1, 2)
         End Get
         Set(value As Double)
             im1 = value
@@ -58,7 +59,7 @@ Public Class Ecuacion
 
     Public Property Rm21 As Double
         Get
-            Return rm2
+            Return Math.Round(rm2, 2)
         End Get
         Set(value As Double)
             rm2 = value
@@ -67,14 +68,12 @@ Public Class Ecuacion
 
     Public Property Im21 As Double
         Get
-            Return im2
+            Return Math.Round(im2, 2)
         End Get
         Set(value As Double)
             im2 = value
         End Set
     End Property
-
-
 
 
     'Constructor de la clase Ecuacion'
